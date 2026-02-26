@@ -1,4 +1,4 @@
-# PARK JUNGMIN 😉
+# PARK JUNGMIN 
 
 
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=bjsjhw1524)](https://solved.ac/bjsjhw1524/)
